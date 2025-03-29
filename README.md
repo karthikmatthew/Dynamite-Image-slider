@@ -17,4 +17,4 @@ This project features a **responsive image slider** built using **HTML, CSS, and
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/karthikmatthew/Dynamite-Image-slider
